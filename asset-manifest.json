@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/spadecompany-coding-test/static/css/main.8add4aa3.css",
-    "main.js": "/spadecompany-coding-test/static/js/main.c68ccce0.js",
+    "main.js": "/spadecompany-coding-test/static/js/main.d537ccc5.js",
     "index.html": "/spadecompany-coding-test/index.html",
     "main.8add4aa3.css.map": "/spadecompany-coding-test/static/css/main.8add4aa3.css.map",
-    "main.c68ccce0.js.map": "/spadecompany-coding-test/static/js/main.c68ccce0.js.map"
+    "main.d537ccc5.js.map": "/spadecompany-coding-test/static/js/main.d537ccc5.js.map"
   },
   "entrypoints": [
     "static/css/main.8add4aa3.css",
-    "static/js/main.c68ccce0.js"
+    "static/js/main.d537ccc5.js"
   ]
 }
