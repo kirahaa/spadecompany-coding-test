@@ -13,7 +13,7 @@ import Dev from "../pages/hq/dev";
 
 const AppRouter = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<MainLayout />}>
           <Route path="/" element={<Home />} />
