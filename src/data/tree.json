@@ -1,0 +1,61 @@
+[
+  {
+    "id": "hq",
+    "label": "회사 본부",
+    "href": "/hq",
+    "children": [
+      {
+        "id": "planning",
+        "label": "기획팀",
+        "href": "/hq/planning",
+        "children": [
+          {
+            "id": "strategy",
+            "label": "전략 파트",
+            "href": "/hq/planning/strategy",
+            "children": [
+              {
+                "id": "newbiz",
+                "label": "신사업 분석",
+                "href": "/hq/planning/strategy/newbiz",
+                "children": [
+                  {
+                    "id": "market-research",
+                    "label": "시장 조사",
+                    "href": "/hq/planning/strategy/newbiz/market-research",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "dev",
+        "label": "개발팀",
+        "href": "/hq/dev",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "product",
+    "label": "제품 관리 본부",
+    "href": "/product",
+    "children": [
+      {
+        "id": "sales",
+        "label": "영업팀",
+        "href": "/product/sales",
+        "children": []
+      },
+      {
+        "id": "hr",
+        "label": "인사팀",
+        "href": "/product/hr",
+        "children": []
+      }
+    ]
+  }
+]
